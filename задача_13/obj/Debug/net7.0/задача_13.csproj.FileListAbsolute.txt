@@ -1,0 +1,15 @@
+E:\Koko\projects-2\задача_13\bin\Debug\net7.0\задача_13.exe
+E:\Koko\projects-2\задача_13\bin\Debug\net7.0\задача_13.deps.json
+E:\Koko\projects-2\задача_13\bin\Debug\net7.0\задача_13.runtimeconfig.json
+E:\Koko\projects-2\задача_13\bin\Debug\net7.0\задача_13.dll
+E:\Koko\projects-2\задача_13\bin\Debug\net7.0\задача_13.pdb
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.csproj.AssemblyReference.cache
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.AssemblyInfoInputs.cache
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.AssemblyInfo.cs
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.csproj.CoreCompileInputs.cache
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.dll
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\refint\задача_13.dll
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.pdb
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\задача_13.genruntimeconfig.cache
+E:\Koko\projects-2\задача_13\obj\Debug\net7.0\ref\задача_13.dll
