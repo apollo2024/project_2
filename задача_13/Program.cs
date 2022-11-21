@@ -7,9 +7,9 @@ if (number < 100)
 else
 if ( number > 999)
 {
-    var m = 10;
+    var div = 10;
     var n = number;
-    for (int i = 999; n > i;n = n / m);
+    for (int i = 999; n > i;n = n / div);
     var sum = n - (n / 10) * 10;
      Console.WriteLine(sum);
 }
