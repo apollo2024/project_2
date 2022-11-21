@@ -1,14 +1,21 @@
 ﻿Console.WriteLine("number:");
 var number = Convert.ToInt32(Console.ReadLine());
-if (number > 999 || number < 100)
+int m = 10;
+if (number < 100)
 {
     Console.WriteLine("число не трехзначное");
 }
-if (number.Length > 3);
+if ( number > 999)
 {
-    var i = number.Length;
-    for (i > 3) continue;
+    for (int i = 999; number > i; m = m * 10)
+    {
+         int super_number = (number / m);
+         int sum = (super_number / 10) - (super_number / 100) * 10 ;
+         Console.WriteLine(sum);
+    }
 }
-
-
-
+else
+{
+    int sum = (number / 10) - (number / 100) * 10 ;
+    Console.WriteLine(sum);
+}
