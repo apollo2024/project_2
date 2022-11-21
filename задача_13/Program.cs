@@ -2,7 +2,7 @@
 var number = Convert.ToInt64(Console.ReadLine());
 if (number < 100)
 {
-    Console.WriteLine("не трехзначное");
+    Console.WriteLine("three numbers are missing");
 }
 else
 if ( number > 999)
